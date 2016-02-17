@@ -2,5 +2,7 @@
     <string name="app_name">GeoApp</string>
     <string name="texto_boton_cierto">Cierto</string>
     <string name="texto_boton_falso">Falso</string>
-    <string name="texto_pregunta_1">¿La península de Yucatán está al norte de México?</string>
+    <string name="texto_correcto">¡Correcto!</string>
+    <string name="texto_incorrecto">¡Incorrecto!</string>
+    <string name="texto_pregunta_1">¿La península de Yucatán está en el norte de México?</string>
 </resources>

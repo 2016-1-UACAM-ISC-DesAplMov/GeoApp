@@ -23,11 +23,13 @@
         android:orientation="horizontal">
 
         <Button
+            android:id="@+id/boton_cierto"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/texto_boton_cierto"/>
 
         <Button
+            android:id="@+id/boton_falso"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/texto_boton_falso"/>
