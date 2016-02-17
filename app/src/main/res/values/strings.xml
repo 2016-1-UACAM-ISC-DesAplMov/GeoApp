@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GeoApp</string>
+    <string name="texto_boton_cierto">Cierto</string>
+    <string name="texto_boton_falso">Falso</string>
+    <string name="texto_pregunta_1">¿La península de Yucatán está al norte de México?</string>
+</resources>
